@@ -5,3 +5,4 @@ import requests
 # print(sys.executable)
 r = requests.get("http://google.com")
 print (r)
+print (r)
